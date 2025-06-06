@@ -43,7 +43,7 @@ const Home = () => {
           <FaGithub className="text-3xl text-gray-700 dark:text-white hover:text-purple-600" />
         </a>
         <a
-          href="https://www.linkedin.com/in/sayani-mondal"
+          href="https://www.linkedin.com/in/sayani-mondal-7220ab24b"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:scale-110 transition-transform"
@@ -68,7 +68,7 @@ const Home = () => {
   </button>
 </Link>
 <ResumeModal show={showModal} onClose={() => setShowModal(false)} />
-
+  
       </div>
     </div>
   );

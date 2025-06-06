@@ -4,13 +4,13 @@ const Projects = () => {
       name: "DevMall",
       description:
         "A curated website fetching career/job pages from major tech companies, showcasing real-time opportunities.",
-      link: "https://github.com/Sayaniiii08/DevMall",
+      link: "https://github.com/Sayaniiii08/Dev-Mall",
     },
     {
       name: "Wellify",
       description:
         "A health & wellness platform with interactive animations, dark/light mode toggle, and IoT sensor integration.",
-      link: "https://github.com/Sayaniiii08/Wellify",
+      link: "https://github.com/Sayaniiii08/wellify-health",
     },
     // Add more projects here if needed
   ];
